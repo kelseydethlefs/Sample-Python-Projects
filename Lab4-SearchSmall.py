@@ -1,7 +1,7 @@
 # Lab4-SearchSmall.py
 
 # opens list from file
-myFile = open ("C:\\Users\\Kels\\Desktop\\Python Apps\\yob1995short.txt", "r")
+myFile = open (# file path, "r")
 
 lineCount = 0
 # Lists
